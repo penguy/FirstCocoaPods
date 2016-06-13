@@ -1,0 +1,14 @@
+PODS:
+  - Mantle (2.0.7):
+    - Mantle/extobjc (= 2.0.7)
+  - Mantle/extobjc (2.0.7)
+
+DEPENDENCIES:
+  - Mantle (~> 2.0.7)
+
+SPEC CHECKSUMS:
+  Mantle: f5cfc40c2fe6beee181d7c880e6e2a5c55ad4087
+
+PODFILE CHECKSUM: dc9e9fffdcb24281122f2d82d2ff65211e186720
+
+COCOAPODS: 1.0.0
